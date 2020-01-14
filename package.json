@@ -1,0 +1,12 @@
+{
+  "name": "reverse_geocoder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/henriqueholz/reverse_geocoder.git",
+  "author": "henriqueholz <henriqueholz@live.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^7.17.1"
+  }
+}

@@ -1,6 +1,6 @@
-const pg = require("pg");
+// const pg = require("pg");
 
-const client = new pg.Client(process.env.POSTGRES_URL);
-client.connect();
+// const client = new pg.Client(process.env.POSTGRES_URL);
+// client.connect();
 
-module.exports = client;
+// module.exports = client;
